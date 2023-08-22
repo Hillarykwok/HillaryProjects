@@ -9,3 +9,4 @@ Projects up to date:
 2. Basic Calculator Project
   - Inspired by youtube
   - Edited css format, changed background and colours
+  - https://calculatorbyhillary.netlify.app/
