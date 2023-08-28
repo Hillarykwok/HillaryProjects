@@ -1,0 +1,73 @@
+label {
+    display: block;
+    margin: 0.5rem 0;
+}
+
+body {
+    background-size: cover; background-image: url(https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?cs=srgb&dl=pexels-philippe-donn-1169754.jpg&fm=jpg);
+    color: black;
+    font-family: Segeo UI;
+    font-size: 16px;
+    text-align: center;
+}
+ 
+.box{
+   width: 80%;
+    background: linear-gradient(45deg, #3a1c71,#ffedbc, #000428);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    max-width: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+input, select, placeholder, textarea{
+    margin: 10px auto;
+    width: 50%;
+    min-height: 2em;
+    display: block;
+    background-color: rgba(255, 255, 255, 0.5); 
+    border: none; 
+    border-radius: 5px;
+    color: grey;
+}
+
+input::placeholder {
+    color: grey; 
+    /* Replace with the color you want separately*/
+}
+
+.inline {
+    width: unset;
+    margin: auto;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 5px;
+    
+}
+
+input[type="radio"], input[type="checkbox"] {
+    opacity: 0.5; 
+    margin-right: 0.2em;  
+}
+
+ fieldset {
+    border: none;
+    padding: 0.5rem 0;
+  }
+
+  fieldset:last-of-type {
+    border-bottom: none;
+  }
+
+  input[type="submit"] {
+    display: block;
+    width: 25%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: black;
+    border-color: white;
+    min-width: 30px;
+  }
