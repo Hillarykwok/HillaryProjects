@@ -11,3 +11,5 @@ Projects up to date:
   - Edited css format, changed background and colours
   - https://calculatorbyhillary.netlify.app/
 3. Space registration form
+  - Web development registration form inspired by space and space events I have attended
+  - Used mostly HTML and CSS
