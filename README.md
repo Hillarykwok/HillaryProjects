@@ -13,4 +13,3 @@ Projects up to date:
 3. Space registration form
   - Web development registration form inspired by space and space events I have attended
   - Used mostly HTML and CSS
-  - https://spacebyhillary.netlify.app
